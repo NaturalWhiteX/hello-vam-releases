@@ -24,6 +24,6 @@ https://github.com/NaturalWhiteX/hello-vam-releases/releases
 
 我会不断努力改进 Hello VaM，敬请关注未来版本的更新和改进！
 
-如果你有任何问题或反馈，可以在 GitHub 的 Issues 模块提交相关内容，或者添加我的 QQ 与我联系。
+如果你有任何问题或反馈，可以在 GitHub 的 Issues 模块提交相关内容。
 
 
