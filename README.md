@@ -26,4 +26,6 @@ https://github.com/NaturalWhiteX/hello-vam-releases/releases
 
 如果你有任何问题或反馈，可以在 GitHub 的 Issues 模块提交相关内容。
 
+或者加入开放 QQ 群（524945414）
+
 
