@@ -6,7 +6,6 @@
 ### 下载和安装
 
 下载地址：
-https://github.com/NaturalWhiteX/hello-vam-releases/releases
 链接：https://pan.baidu.com/s/154jRzLdKH18Ob0EgfaA3qw?pwd=isjy 
 提取码：isjy 
 
