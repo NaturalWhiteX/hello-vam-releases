@@ -7,6 +7,8 @@
 
 下载地址：
 https://github.com/NaturalWhiteX/hello-vam-releases/releases
+链接：https://pan.baidu.com/s/154jRzLdKH18Ob0EgfaA3qw?pwd=isjy 
+提取码：isjy 
 
 启动器是免安装的，下载其中的压缩包到本地计算机中，解压并双击 `Hello-VaM.exe` 就可以运行启动器。
 
